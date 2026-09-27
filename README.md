@@ -142,4 +142,4 @@ Refer to [`evaluation/README.md`](evaluation/README.md) for guidelines on defini
 
 ## Future improvements
 
-- List planned feature enhancements, architectural refactorings, or future capabilities.
+- voice recoqnition STT/TTS
