@@ -4,9 +4,9 @@ Simple Calendar assistant for the **Development of AI Applications** course fina
 
 ## Team members
 
-- Tomi Kitola (@student.hamk.fi)
-- Jaakko Ruhanen (jaakko.ruhanen@student.hamk.fi)
-- Timofey Krylov (timofey.krylov@student.hamk.fi)
+- Tomi Kitola (email@example.com)
+- Jaakko Ruhanen (email@example.com)
+- Timofey Krylov (timagibor@gmail.com)
 
 ## Problem
 Calendar usage is time consuming work, and people are lazy.
@@ -142,4 +142,4 @@ Refer to [`evaluation/README.md`](evaluation/README.md) for guidelines on defini
 
 ## Future improvements
 
-- List planned feature enhancements, architectural refactorings, or future capabilities.
+- STT/TTS
